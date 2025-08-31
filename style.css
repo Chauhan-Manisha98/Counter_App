@@ -1,0 +1,38 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+}
+
+#root{ 
+    background-color: black;
+    Color:white;
+     display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+#counter{
+    background-color: red;
+    Color:white;
+    padding: 50px;
+    font-size: 25px;
+    
+}
+
+button{
+    gap:10px;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
